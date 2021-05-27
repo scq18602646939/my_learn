@@ -1,0 +1,4 @@
+hadoop
+scala
+hive
+salt
